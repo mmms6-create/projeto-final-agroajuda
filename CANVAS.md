@@ -63,10 +63,10 @@ Máximo de **4 funcionalidades**. Se tiver mais, corte. Lembre: *qualidade acima
 
 | # | Funcionalidade | Essencial? | Quem faz |
 |---|---|---|---|
-| F1 | | Sim |Cadastrar e listar agrônomos e técnicos disponíveis | 
-| F2 | | Sim | Visualizar informações do profissional |
-| F3 | | Sim/Não | Solicitar assistência técnica |
-| F4 | | Não |Visualizar o status da solicitação |
+| F1 | | Sim |Cadastrar e listar agrônomos e técnicos disponíveis | Larissa |
+| F2 | | Sim | Visualizar informações do profissional | Miriam |
+| F3 | | Sim/Não | Solicitar assistência técnica | Taiane |
+| F4 | | Não |Visualizar o status da solicitação | Todas |
 
 ---
 
